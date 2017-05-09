@@ -1,6 +1,6 @@
 import numpy as np
 import pickle
-import mathfunc
+import lib.mathfunc as mathfunc
 import input_mnist
 
 def get_train_data():
